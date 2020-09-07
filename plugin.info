@@ -1,0 +1,10 @@
+[Plugin]
+Name = Facebook Birthdays
+Version = 1.0.0
+License = MIT
+URL = https://github.com/austincasteel/facebookbirthdays/
+Description = Keep track of Facebook friends' birthdays
+
+[Author]
+Name = Project Naomi
+URL = https://projectnaomi.com/
